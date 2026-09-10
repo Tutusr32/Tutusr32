@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- GIF do Gon (HxH) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG81cW1weTJtY2ZtMjhid2JkOW9haWw1ODdpamhmcjZmdHI1MDNvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7CyKZcnfypqOLI9liT/giphy.gif" width="550px" alt="Gon Freecss Walking" style="border-radius: 10px;"/>king
+<!-- GIF do Gon (HxH) - Ajustado para formato banner (mais comprido/achatado) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG81cW1weTJtY2ZtMjhid2JkOW9haWw1ODdpamhmcjZmdHI1MDNvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7CyKZcnfypqOLI9liT/giphy.gif" width="100%" height="220px" alt="Gon Freecss Walking" style="border-radius: 10px; object-fit: cover; object-position: center;"/>
 
 <br><br>
 
 # Arthur Rezende
 
-### 🚀 Desenvolvedor Backend migrando para ML / AI Engineer
+### Desenvolvedor Backend migrando para ML / AI Engineer
 
 <br>
 
@@ -122,23 +122,30 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Backend Lab</h3>
-      <p align="center"><b>APIs, bancos e arquitetura</b></p>
-      <p>Projetos desenvolvidos enquanto construo minha base de backend.</p>
+      <h3 align="center">Recomenda Filmes</h3>
+      <p align="center"><b>Machine Learning & Recomendação</b></p>
+      <p>Sistema inteligente para recomendação de filmes com base em preferências de usuários.</p>
       <hr>
       <b>Tecnologias</b><br>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,docker" height="40"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       </p>
       <hr>
-      <b>Temas:</b>
+      <b>Temas & Práticas:</b>
       <ul>
-        <li>APIs</li>
-        <li>CRUD</li>
-        <li>SQL</li>
-        <li>SQLAlchemy</li>
-        <li>Arquitetura</li>
+        <li>Sistemas de Recomendação</li>
+        <li>Filtragem baseada em conteúdo/colaborativa</li>
+        <li>Processamento de Dados</li>
+        <li>Algoritmos de ML</li>
       </ul>
+      <br><br>
+      <div align="center">
+        <a href="https://github.com/Tutusr32/Recomenda-Filmes">
+          <img src="https://img.shields.io/badge/ABRIR_PROJETO-FF4B4B?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
