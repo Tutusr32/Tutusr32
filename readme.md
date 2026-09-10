@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF do Gon (HxH) -->
-<img src="https://media.giphy.com/media/u04bEYJ5ZU232pn8M2/giphy.gif" width="550px" alt="Gon Freecss Laughing" style="border-radius: 10px;"/>
+<img src="https://in.pinterest.com/pin/hxh-gon-e-killua--659777414165114389/" width="550px" alt="Gon Freecss Laughing" style="border-radius: 10px;"/>
 
 <br><br>
 
