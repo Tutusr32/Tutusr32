@@ -2,9 +2,9 @@
 
 # Arthur Rezende
 
-### Desenvolvedor Backend → Futuro Engenheiro de ML/IA
+### Backend Developer → ML/AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Construindo+backends;Trabalhando+com+dados;Estudando+Machine+Learning;Tentando+entender+como+as+coisas+funcionam" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Construindo+backends;Trabalhando+com+dados;Estudando+Machine+Learning;Python+%7C+FastAPI+%7C+SQL;Um+projeto+de+cada+vez" />
 
 </div>
 
@@ -12,160 +12,187 @@
 
 ## Sobre mim
 
-Sou desenvolvedor brasileiro focado em **Backend, Dados e Machine Learning**.
+Sou estudante de Administração e desenvolvedor focado em **Backend, Dados e Machine Learning**.
 
-Comecei com Python e fui avançando para desenvolvimento de APIs, bancos de dados, análise de dados e ML.
+Comecei com Python e fui avançando para APIs, bancos de dados, análise de dados e desenvolvimento de sistemas.
 
-Hoje meu caminho está sendo:
+Atualmente estou construindo minha base para seguir em direção a **Machine Learning e AI Engineering**, sem abandonar a engenharia de software no caminho.
 
-**Backend → Dados → Machine Learning → IA**
-
-Gosto mais de **construir projetos e resolver problemas** do que ficar acumulando tutorial.
-
-Atualmente trabalhando principalmente com:
-
-`Python` `FastAPI` `SQL` `SQLAlchemy` `Pandas` `NumPy`
+Gosto de aprender fazendo: construir, quebrar, descobrir por que quebrou e melhorar.
 
 ---
 
-## Tecnologias
+## O que estou fazendo atualmente
+
+- Construindo e evoluindo o **Finance Core**
+- Aprofundando meus conhecimentos em **Backend e bancos de dados**
+- Estudando **Pandas, NumPy e Machine Learning**
+- Avançando para **PostgreSQL e Scikit-learn**
+- Construindo projetos para transformar teoria em prática
+
+---
+
+## Tech Stack
+
+### Linguagens
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</p>
 
 ### Backend
 
-`Python` `FastAPI` `SQLAlchemy` `REST API` `Docker` `Pytest`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,sqlalchemy,docker" />
+
+</p>
 
 ### Banco de dados
 
-`SQL` `MySQL` `SQLite` `PostgreSQL`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+
+</p>
 
 ### Dados & Machine Learning
 
-`Pandas` `NumPy` `Scikit-learn` `Data Analysis` `Machine Learning`
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+
+</p>
 
 ---
 
-## Projeto em destaque
+# Projetos em destaque
 
-### Finance Core
+<table>
+<tr>
+<td width="50%">
 
-Um sistema de gerenciamento financeiro desenvolvido para estudar **engenharia de backend na prática**.
+## Finance Core
 
-Mais do que um CRUD, o projeto vem sendo utilizado para estudar arquitetura, autenticação, banco de dados, testes e análise financeira.
+Sistema financeiro desenvolvido para praticar engenharia de backend na prática.
 
-**Stack**
+**Tecnologias**
 
-`Python` `FastAPI` `SQLAlchemy` `MySQL` `Docker` `Pytest`
+`Python` `FastAPI` `SQLAlchemy`  
+`MySQL` `Docker` `Pytest`
 
-**Arquitetura**
+**Inclui**
 
-```text
-                 API
-                  │
-                  ▼
-             Controller
-                  │
-                  ▼
-               Service
-                  │
-                  ▼
-             Repository
-                  │
-                  ▼
-               MySQL
-```
+- Autenticação
+- Usuários e contas
+- Transações
+- Filtros
+- Dashboard financeiro
+- Testes de integração
 
-O projeto possui:
+<a href="https://github.com/Tutusr32/Finance-Core---Projeto-Financeiro">
+Ver projeto →
+</a>
 
-* Autenticação e autorização
-* Usuários, contas e transações
-* Filtros e consultas financeiras
-* Testes de integração
-* Dashboard e análise financeira
-* Arquitetura separada por responsabilidades
+</td>
 
-[Ver projeto →](https://github.com/Tutusr32/Finance-Core---Projeto-Financeiro)
+<td width="50%">
 
----
+## Recomenda-Filmes
 
-## Outros projetos
+Projeto desenvolvido durante meus estudos de dados e Machine Learning.
 
-### Recomenda-Filmes
-
-Projeto de recomendação desenvolvido durante meus estudos de dados e Machine Learning.
-
-`Python` `Pandas` `NumPy` `Machine Learning`
-
-[Ver projeto →](https://github.com/Tutusr32/Recomenda-Filmes)
-
-### Análise de Dados
-
-Projetos voltados para tratamento, exploração e análise de dados utilizando Python.
+**Tecnologias**
 
 `Python` `Pandas` `NumPy`
 
-[Ver projeto →](https://github.com/Tutusr32/Analise-de-Dados)
+**Objetivo**
+
+Explorar dados e construir um sistema de recomendação a partir deles.
+
+<a href="https://github.com/Tutusr32/Recomenda-Filmes">
+Ver projeto →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## Análise de Dados
+
+Projetos voltados para exploração, tratamento e análise de dados.
+
+**Tecnologias**
+
+`Python` `Pandas` `NumPy`
+
+<a href="https://github.com/Tutusr32/Analise-de-Dados">
+Ver projeto →
+</a>
+
+</td>
+
+<td width="50%">
+
+## Backend & APIs
+
+Projetos desenvolvidos durante meus estudos de desenvolvimento backend.
+
+**Tecnologias**
+
+`Python` `FastAPI` `SQLAlchemy`  
+`SQLite` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## O que estou estudando
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutusr32&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusr32&layout=compact&langs_count=8&hide_border=true"/>
+
+</div>
+
+---
+
+# Minha evolução
 
 ```text
-Backend
+Python
    │
-   ├── PostgreSQL
-   │
-   ▼
-Dados
-   │
-   ├── Scikit-learn
-   │
-   ▼
-Machine Learning
-   │
-   ├── Modelos
-   ├── Métricas
-   └── Avaliação
-   │
-   ▼
-IA
-   │
-   ├── Redes Neurais
-   ├── LLMs
-   └── Sistemas de IA
-```
-
-A ideia não é simplesmente **usar IA**.
-
-Quero chegar no ponto de entender e construir os sistemas por trás dela.
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tutusr32&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusr32&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,postgres,docker,git,github,pandas,numpy,sklearn" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-Construir → Quebrar → Entender → Melhorar
-```
-
-</div>
+   ├── POO
+   ├── APIs
+   └── Automação
+        │
+        ▼
+     Backend
+        │
+   ┌────┴────┐
+   │         │
+ SQL      FastAPI
+   │         │
+   └────┬────┘
+        ▼
+      Dados
+        │
+   ┌────┴────┐
+ Pandas    NumPy
+        │
+        ▼
+ Machine Learning
+        │
+        ▼
+   AI Engineering
+        │
+        ▼
+      LLMs
