@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GIF do Gon (HxH) -->
-<img src="https://in.pinterest.com/pin/hxh-gon-e-killua--659777414165114389/" width="550px" alt="Gon Freecss Laughing" style="border-radius: 10px;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG81cW1weTJtY2ZtMjhid2JkOW9haWw1ODdpamhmcjZmdHI1MDNvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7CyKZcnfypqOLI9liT/giphy.gif" width="550px" alt="Gon Freecss Walking" style="border-radius: 10px;"/>king
 
 <br><br>
 
@@ -146,13 +146,6 @@
 ---
 
 ## ☽ GitHub Stats
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tutusr32&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusr32&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
-<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tutusr32&theme=tokyonight" alt="GitHub Profile Details" />
 
