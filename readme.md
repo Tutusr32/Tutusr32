@@ -2,197 +2,88 @@
 
 # Arthur Rezende
 
-### Backend Developer → ML/AI Engineer
+### Desenvolvedor Backend → ML / AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Construindo+backends;Trabalhando+com+dados;Estudando+Machine+Learning;Python+%7C+FastAPI+%7C+SQL;Um+projeto+de+cada+vez" />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=55&lines=Construindo+backends;Trabalhando+com+dados;Estudando+Machine+Learning;Python+%7C+FastAPI+%7C+SQL;Backend+hoje%2C+IA+amanh%C3%A3"
+  alt="Typing SVG"
+/>
+
+Tech Stack
+Linguagem
+<div align="center"> <img src="https://skillicons.dev/icons?i=python" alt="Python">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> </div>
+Backend
+<div align="center"> <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" alt="Backend">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> </div>
+
+Banco de dados
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="Database">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> </div>
+Dados & Machine Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data and Machine Learning">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> </div>
+
+Projetos em destaque
+<table> <tr> <td width="50%" valign="top">
+Finance Core
+
+Sistema financeiro desenvolvido como laboratório de engenharia de backend.
+
+Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+
+<br>
+
+<a href="https://github.com/Tutusr32">
+  <img src="https://img.shields.io/badge/GitHub-Tutusr32-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Rezende-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## Sobre mim
+# Sobre mim
 
-Sou estudante de Administração e desenvolvedor focado em **Backend, Dados e Machine Learning**.
+Sou desenvolvedor brasileiro focado em **Backend, Dados e Machine Learning**.
 
-Comecei com Python e fui avançando para APIs, bancos de dados, análise de dados e desenvolvimento de sistemas.
+Comecei com Python e fui avançando para desenvolvimento de APIs, bancos de dados, análise de dados e Machine Learning.
 
-Atualmente estou construindo minha base para seguir em direção a **Machine Learning e AI Engineering**, sem abandonar a engenharia de software no caminho.
+Hoje estou construindo minha base em **engenharia de software + dados + IA**, buscando entender o que estou fazendo e não apenas fazer funcionar.
 
-Gosto de aprender fazendo: construir, quebrar, descobrir por que quebrou e melhorar.
+Gosto de aprender na prática:
 
----
+**Construir → Quebrar → Entender → Melhorar**
 
-## O que estou fazendo atualmente
-
-- Construindo e evoluindo o **Finance Core**
-- Aprofundando meus conhecimentos em **Backend e bancos de dados**
-- Estudando **Pandas, NumPy e Machine Learning**
-- Avançando para **PostgreSQL e Scikit-learn**
-- Construindo projetos para transformar teoria em prática
-
----
-
-## Tech Stack
-
-### Linguagens
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</p>
-
-### Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=fastapi,sqlalchemy,docker" />
-
-</p>
-
-### Banco de dados
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-
-</p>
-
-### Dados & Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
-
-</p>
-
----
-
-# Projetos em destaque
-
-<table>
-<tr>
-<td width="50%">
-
-## Finance Core
-
-Sistema financeiro desenvolvido para praticar engenharia de backend na prática.
-
-**Tecnologias**
-
-`Python` `FastAPI` `SQLAlchemy`  
-`MySQL` `Docker` `Pytest`
-
-**Inclui**
-
-- Autenticação
-- Usuários e contas
-- Transações
-- Filtros
-- Dashboard financeiro
-- Testes de integração
-
-<a href="https://github.com/Tutusr32/Finance-Core---Projeto-Financeiro">
-Ver projeto →
-</a>
-
-</td>
-
-<td width="50%">
-
-## Recomenda-Filmes
-
-Projeto desenvolvido durante meus estudos de dados e Machine Learning.
-
-**Tecnologias**
-
-`Python` `Pandas` `NumPy`
-
-**Objetivo**
-
-Explorar dados e construir um sistema de recomendação a partir deles.
-
-<a href="https://github.com/Tutusr32/Recomenda-Filmes">
-Ver projeto →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## Análise de Dados
-
-Projetos voltados para exploração, tratamento e análise de dados.
-
-**Tecnologias**
-
-`Python` `Pandas` `NumPy`
-
-<a href="https://github.com/Tutusr32/Analise-de-Dados">
-Ver projeto →
-</a>
-
-</td>
-
-<td width="50%">
-
-## Backend & APIs
-
-Projetos desenvolvidos durante meus estudos de desenvolvimento backend.
-
-**Tecnologias**
-
-`Python` `FastAPI` `SQLAlchemy`  
-`SQLite` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tutusr32&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tutusr32&layout=compact&langs_count=8&hide_border=true"/>
-
-</div>
-
----
-
-# Minha evolução
+Meu caminho atualmente:
 
 ```text
 Python
-   │
-   ├── POO
-   ├── APIs
-   └── Automação
-        │
-        ▼
-     Backend
-        │
-   ┌────┴────┐
-   │         │
- SQL      FastAPI
-   │         │
-   └────┬────┘
-        ▼
-      Dados
-        │
-   ┌────┴────┐
- Pandas    NumPy
-        │
-        ▼
- Machine Learning
-        │
-        ▼
-   AI Engineering
-        │
-        ▼
-      LLMs
+   ↓
+Backend
+   ↓
+SQL + APIs + Arquitetura
+   ↓
+Dados
+   ↓
+Machine Learning
+   ↓
+AI Engineering
+   ↓
+LLMs
