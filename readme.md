@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- GIF do Gon (HxH) - Ajustado para formato banner (mais comprido/achatado) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG81cW1weTJtY2ZtMjhid2JkOW9haWw1ODdpamhmcjZmdHI1MDNvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7CyKZcnfypqOLI9liT/giphy.gif" width="100%" height="220px" alt="Gon Freecss Walking" style="border-radius: 10px; object-fit: cover; object-position: center;"/>
+<!-- GIF do Gon (HxH) - Ajuste de altura e formato banner -->
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG81cW1weTJtY2ZtMjhid2JkOW9haWw1ODdpamhmcjZmdHI1MDNvcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7CyKZcnfypqOLI9liT/giphy.gif" width="100%" height="280px" alt="Gon Freecss Walking" style="border-radius: 10px; object-fit: cover; object-position: center;"/>
 
 <br><br>
 
@@ -123,22 +123,22 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Recomenda Filmes</h3>
-      <p align="center"><b>Machine Learning & Recomendação</b></p>
-      <p>Sistema inteligente para recomendação de filmes com base em preferências de usuários.</p>
+      <p align="center"><b>Análise & Matriz de Correlação</b></p>
+      <p>Sistema de recomendação baseado na análise de similaridade e correlação entre avaliações.</p>
       <hr>
       <b>Tecnologias</b><br>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       </p>
       <hr>
-      <b>Temas & Práticas:</b>
+      <b>O que estou praticando:</b>
       <ul>
-        <li>Sistemas de Recomendação</li>
-        <li>Filtragem baseada em conteúdo/colaborativa</li>
-        <li>Processamento de Dados</li>
-        <li>Algoritmos de ML</li>
+        <li>Matriz de Correlação (Pandas)</li>
+        <li>Tratamento e limpeza de dados</li>
+        <li>Análise estatística de preferências</li>
+        <li>Filtragem baseada em dados</li>
       </ul>
       <br><br>
       <div align="center">
