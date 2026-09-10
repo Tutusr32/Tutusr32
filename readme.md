@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/GitHub-Tutusr32-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="SEU_LINK_DO_LINKEDIN">
+<a href="https://www.linkedin.com/in/arthur-rezende-28626b339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Rezende-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
